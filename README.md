@@ -10,6 +10,8 @@ Scrape the BBC Proms website for 1895-2021 to get:
 ## Libraries used
 
 - BeautifulSoup4: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+- Requests
+- lxml: https://lxml.de/
 
 ## URL format:
 Format:
